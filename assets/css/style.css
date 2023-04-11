@@ -2,3 +2,14 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+body {
+    background-image: url(https://rare-gallery.com/uploads/posts/548041-albert-einstein.jpg);
+    background-repeat: no-repeat;
+    color: white;
+    font-family: 'Cabin', sans-serif;
+}
+
+.d-none {
+    display: none;
+}
